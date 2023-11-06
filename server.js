@@ -6,7 +6,7 @@
 * 
 *  Name: _______Jui Sachinkumar Parikh___ Student ID: __164267213_  Date: 3rd November,2023___
 *
-*  Online (Cyclic) Link: https://long-rose-gosling-hat.cyclic.app/blog
+*  Online (Cyclic) Link: https://long-rose-gosling-hat.cyclic.app
 *
 ********************************************************************************/ 
 
